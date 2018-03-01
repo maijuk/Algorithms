@@ -3,8 +3,7 @@ Algorithms I've implemented.
 
 Generic quicksort
 
-Basic generic quicksort + insertion sort hybrid. Uses
-insertion sort for small lists. 
+Basic generic quicksort + insertion sort hybrid.
 
 Known issues
 
